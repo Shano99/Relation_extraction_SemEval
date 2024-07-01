@@ -50,7 +50,8 @@ The input sentence must be of the following format:
    PS: Valid word excludes blankspace, stop words and punctutations.
 
 Note: The major weakness of this method is that it cannot extract relations from sentences where there is no BETWEEN context.
-References and Citations
+
+### References and Citations:
 
 Semi-Supervised Bootstrapping of Relationship Extractors with Distributional Semantics, EMNLP'15
 
